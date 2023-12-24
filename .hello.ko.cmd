@@ -1,0 +1,1 @@
+cmd_/home/dhruv/Desktop/kernel_module/hello.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/dhruv/Desktop/kernel_module/hello.ko /home/dhruv/Desktop/kernel_module/hello.o /home/dhruv/Desktop/kernel_module/hello.mod.o;  true

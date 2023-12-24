@@ -1,0 +1,1 @@
+cmd_/home/dhruv/Desktop/kernel_module/Module.symvers :=  scripts/mod/modpost -m -a     -o /home/dhruv/Desktop/kernel_module/Module.symvers -T /home/dhruv/Desktop/kernel_module/modules.order -i Module.symvers -e 
